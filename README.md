@@ -4,3 +4,4 @@
 
 ## Education			        		
 - B.S., Business Administration Management | East Tennessee State University (_May 2024_)
+## Work Experience
